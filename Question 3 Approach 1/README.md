@@ -1,17 +1,17 @@
 # Summary
 
-All the modules can be installed using the command(for windows only)
+All the modules for this project can be installed using the command(for windows only)
 
-## Numpy
+## numpy
 pip install numpy
 
-## Jax
+## jax
 pip install jax
 
-## Torch
+## torch
 pip install torch
 
-## Torchvision
+## torchvision
 pip install torchvision
 
 I have taken reference for this project from the official Jax Documentation(Link Below)
