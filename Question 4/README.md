@@ -1,7 +1,7 @@
 # Summary
 This project presents the basic Bayesian approach to linear regression 
 
-All the modules can be installed using the command (for windows only)
+All the modules for this project can be installed using the command (for windows only)
 ## numpy
 pip install numpy
 
