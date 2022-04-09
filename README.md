@@ -1,7 +1,7 @@
 # SRIP_IITG
 
 ## Summary
-The README files for each task is in the respective folder of each task.
+The README files for each task is in the respective folder of each task with all the necessary information.
 
 For Question 3 I have solved the question using 2 approaches and both the approaches have been mentioned in this repository.
 
